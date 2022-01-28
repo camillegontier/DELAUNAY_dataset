@@ -2,7 +2,7 @@
 
 ![Visualization of DELAUNAY dataset.](examples.JPG)
 
-The DELAUNAY (Dataset for Experiments on Learning with Abstract and Non-figurative paintings for Neural Networks and Artificial intelligence) dataset is named after artists [Sonia](https://en.wikipedia.org/wiki/Sonia_Delaunay) and [Robert Delaunay](https://en.wikipedia.org/wiki/Robert_Delaunay).
+The DELAUNAY (Dataset for Experiments on Learning with Abstract and Non-figurative art for Neural Networks and Artificial intelligence) dataset is named after artists [Sonia](https://en.wikipedia.org/wiki/Sonia_Delaunay) and [Robert Delaunay](https://en.wikipedia.org/wiki/Robert_Delaunay).
 
 ### Contents
 
