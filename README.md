@@ -11,6 +11,7 @@ The dataset comprises 11,503 images from 53 categories, i.e. artists (mean numbe
 ### Citing this data set
 Please cite the following paper:
 
-C. Gontier, J. Jordan, and M. A. Petrovici (2022). The DELAUNAY dataset: a database of abstract paintings for psychophysical and machine learning experiments. arXiv preprint.
+[C. Gontier, J. Jordan, and M. A. Petrovici (2022). DELAUNAY: a dataset of abstract art for psychophysical and machine learning research. arXiv preprint.
+](https://arxiv.org/abs/2201.12123)
 
 Images available at [https://physiologie.unibe.ch/preprints.aspx](https://physiologie.unibe.ch/preprints.aspx)
