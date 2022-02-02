@@ -14,4 +14,4 @@ Please cite the following paper:
 [C. Gontier, J. Jordan, and M. A. Petrovici (2022). DELAUNAY: a dataset of abstract art for psychophysical and machine learning research. arXiv preprint.
 ](https://arxiv.org/abs/2201.12123)
 
-Images available at [https://physiologie.unibe.ch/preprints.aspx](https://physiologie.unibe.ch/preprints.aspx)
+Images available at [https://physiologie.unibe.ch/supplementals/delaunay.zip]( https://physiologie.unibe.ch/supplementals/delaunay.zip)
