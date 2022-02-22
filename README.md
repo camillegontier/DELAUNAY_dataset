@@ -9,10 +9,10 @@ DELAUNAY (Dataset for Experiments on Learning with Abstract and non-figurative a
 The dataset comprises 11,503 images from 53 categories, i.e. artists (mean number of images per artist: 217.04; standard deviation: 58.55), along with the associated URLs. These samples are split between a training set of 9202 images and a test set of 2301 images. A random subset of samples illustrating their non-figurative (not representing a natural object) nature and high diversity is shown above.
 
 Images can be downloaded from the website of the Department of Physiology of the University of Bern at the following links:
-- [https://physiologie.unibe.ch/supplementals/delaunay_1.zip]( https://physiologie.unibe.ch/supplementals/delaunay_1.zip) : containing the 11,503 images (can be read using the [DataLoader](https://pytorch.org/docs/stable/data.html#torch.utils.data.DataLoader) PyTorch class);
+- [https://physiologie.unibe.ch/supplementals/delaunay.zip]( https://physiologie.unibe.ch/supplementals/delaunay.zip) : containing the 11,503 images (can be read using the [DataLoader](https://pytorch.org/docs/stable/data.html#torch.utils.data.DataLoader) PyTorch class);
 - [https://physiologie.unibe.ch/supplementals/delaunay_test.zip]( https://physiologie.unibe.ch/supplementals/delaunay_test.zip) : training set containing 9202 images;
 - [https://physiologie.unibe.ch/supplementals/delaunay_train.zip]( https://physiologie.unibe.ch/supplementals/delaunay_train.zip) : test set containing 2301 images;
-- [https://physiologie.unibe.ch/supplementals/URLs.zip]( https://physiologie.unibe.ch/supplementals/URLs.zip) : .csv files containing the URLs of each image in the dataset.
+- [https://physiologie.unibe.ch/supplementals/DELAUNAY_URLs.zip]( https://physiologie.unibe.ch/supplementals/DELAUNAY_URLs.zip) : .csv files containing the URLs of each image in the dataset.
 
 ### Citing this data set
 Please cite the following paper:
