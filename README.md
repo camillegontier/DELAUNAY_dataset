@@ -20,4 +20,11 @@ Please cite the following paper:
 [C. Gontier, J. Jordan, and M. A. Petrovici (2022). DELAUNAY: a dataset of abstract art for psychophysical and machine learning research. arXiv preprint.
 ](https://arxiv.org/abs/2201.12123)
 
-
+```
+@article{gontier2022delaunay,
+  title={DELAUNAY: a dataset of abstract art for psychophysical and machine learning research},
+  author={Gontier, Camille and Jordan, Jakob and Petrovici, Mihai A},
+  journal={arXiv preprint arXiv:2201.12123},
+  year={2022}
+}
+```
